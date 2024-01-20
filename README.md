@@ -1,4 +1,3 @@
-#Blog
-Django
+Blog Django
 
 By ~PRJ
